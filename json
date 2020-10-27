@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Luis Angel",
+    "hobby": "Futbol",
+    "age": 22,
+    "phone": 3331518275,
+    "address": "Coto la Cima"
+   },
+   
+     {
+    "name": "Joon",
+    "hobby": "Anime",
+    "age": 24,
+    "phone": 3331561255,
+    "address": "Bodega"
+   },
+   
+     {
+    "name": "Fabian",
+    "hobby": "Fumar",
+    "age": 27,
+    "phone": 361626175,
+    "address": "Asian Market"
+   },
+   
+     {
+    "name": "Hyuntae",
+    "hobby": "Dormir",
+    "age": 25,
+    "phone": 3339568986,
+    "address": "Cima Park"
+   }
+]
